@@ -1,6 +1,6 @@
 # Train-Ticket-Booking-System
 
-The Train Ticket Booking System is a web-based application designed to simplify and streamline the process of searching, booking, and managing train tickets. Built using Laravel, Bootstrap, and other modern web technologies, this project provides users with an intuitive interface to explore available train options, make reservations, and manage their bookings.
+The Train Ticket Booking System is a web-based application designed to simplify and streamline the process of searching, booking, and managing train tickets. Built using Laravel, PHP, Bootstrap, and other modern web technologies, this project provides users with an intuitive interface to explore available train options, make reservations, and manage their bookings.
 
 The system offers the following features:
 
